@@ -27,3 +27,10 @@ background-color: ${({ theme }) => theme.colors.footer};
     }
   }
 `
+export const Copyright = styled.div`
+display: flex;
+width: 100%;
+justify-content:center;
+align-items: center;
+margin: 0 auto ;  
+`

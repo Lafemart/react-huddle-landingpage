@@ -1,7 +1,7 @@
 import { StyledHeader, Nav, Logo, Image } from "./styles/Header.styled";
-import { Container } from "./styles/Container.style";
-import { Button } from "./styles/Button.style";
-import { Flex } from "./styles/Flex.style";
+import { Container } from "./styles/Container.styled";
+import { Button } from "./styles/Button.styled";
+import { Flex } from "./styles/Flex.styled";
 
 const Header = () => {
 	return (

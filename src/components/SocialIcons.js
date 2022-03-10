@@ -1,6 +1,6 @@
 import React from 'react'
 import {BsTwitter, BsFacebook, BsLinkedin} from 'react-icons/bs'
-import { StyledSocialIcons } from './styles/SocialIcons.style'
+import { StyledSocialIcons } from './styles/SocialIcons.styled'
 
 const SocialIcons = () => {
   return (

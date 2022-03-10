@@ -1,9 +1,9 @@
 import { ThemeProvider } from "styled-components";
 import Header from "./components/Header";
 import Card from "./components/Card";
-import { Container } from "./components/styles/Container.style";
+import { Container } from "./components/styles/Container.styled";
 import content from "./Content";
-import { GlobalStyles } from "./components/styles/Global";
+import { GlobalStyles } from "./components/styles/Global.styled";
 import Footer from "./components/Footer";
 
 
