@@ -1,7 +1,10 @@
 import SocialIcons from "./SocialIcons";
 import { Container } from "./styles/Container.styled";
 import { Flex } from "./styles/Flex.styled";
-import { StyledFooter, Copyright } from "./styles/Footer.styled";
+import {
+	StyledFooter,
+	Copyright,
+} from "./styles/Footer.styled";
 
 const Footer = () => {
 	return (
